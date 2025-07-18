@@ -72,4 +72,4 @@ Classifies the site as:
 
  # Output
  
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/633f6011-fe3b-49e3-9f6b-6298d8299421" />
